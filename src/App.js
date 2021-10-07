@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Demo of connecting amplify with react</h1>
+      <p>Hello</p>
     </div>
   );
 }
